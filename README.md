@@ -26,6 +26,7 @@ This repository records the user's current working philosophy and reusable colla
 - `workflows/` — end-to-end operating procedures.
 - `templates/` — reusable task, handoff and review templates.
 - `projects/` — project onboarding and project-specific rule templates.
+- `DELIVERY/` — unified delivery intake, independent review staging and confirmed archive area.
 - `CHANGELOG.md` — changes to this standard library.
 
 ## Documents
@@ -38,6 +39,7 @@ This repository records the user's current working philosophy and reusable colla
 - [正式任务书模板](templates/正式任务书模板.md)
 - [交付回执模板](templates/交付回执模板.md)
 - [独立审查报告模板](templates/独立审查报告模板.md)
+- [交付中心说明](DELIVERY/README.md)
 
 ## Status and authority
 
